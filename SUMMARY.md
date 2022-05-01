@@ -5,4 +5,3 @@
     * [VAE](generative-models/VAE.md)
     * [GAN](generative-models/GAN.md)
 
-
