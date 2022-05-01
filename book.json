@@ -1,3 +1,5 @@
-{
-    "plugins": ["katex"]
+{   
+    "author":"Xiaozhi Zhu <zhuxiaozhi1994@gmail.com>",
+    "title":"ML learning notes",
+    "plugins": ["katex", "toggle-chapters"]
 }
